@@ -1,7 +1,7 @@
 ### Experiment-1
 Question : Given that POWER, P=100µ W; Perform DC Analysis, Transient Analysis and AC Analysis for the Given Circuit Designs and also check what happens when the width is increased or decreased of each mosfet;
 
-Design-1 :
+### Design-1 :
 ![2025-02-17](https://github.com/user-attachments/assets/1062e9cb-6fe1-4b00-a64b-b09c138f482a)
 
 Using the Formula for Power,
@@ -18,13 +18,13 @@ Length and Width of the Channel used to obtain the given Current is shown in the
 
 ![2025-02-17 (33)](https://github.com/user-attachments/assets/6eb2321b-7fef-4b5a-92f7-22cb30ef3053)
 
-a.DC ANALYSIS:
+### a.DC ANALYSIS:
 
 Procedure for Performing DC Analysis: we have to select the dc output print(DC op pnt) in the Edit Simulation Command and Run the Simulation
 
 ![image](https://github.com/user-attachments/assets/afd73325-e8d8-41d8-a6fa-ff0b2a68138e)
 
-b.Transient Analysis:
+### b.Transient Analysis:
 
 Procedure for Performing Transient Analysis: we have to select the Transient Analysis in the Edit Simulation Command, Give the stop time as 1ms and Run the Simulation.
 ![image](https://github.com/user-attachments/assets/01fda656-b7d0-4493-b590-5cb6576cce25)
@@ -34,7 +34,7 @@ The Graphs below shows the Transient Response of the Given Design;
 
 ![image](https://github.com/user-attachments/assets/b63247cf-918a-4a12-894f-4426086d69cd)
 
-c.AC Analysis:
+### c.AC Analysis:
 
 Procedure for Performing AC Analysis: we have to select the AC Analysis in the Edit Simulation Command, Give the values as shown in the figure beowl and Run th Simulation.
 
@@ -43,7 +43,7 @@ Procedure for Performing AC Analysis: we have to select the AC Analysis in the E
 The Graph below shows the AC Analysis of the Given Design;
 ![image](https://github.com/user-attachments/assets/f7bfef49-216e-4451-92a2-5383d7919f1b)
 
-RESULT( Design-1):
+### RESULT:
     DC Analysis:
     
     The calculated drain current (Id) matches the expected value based on power and voltage, Id = 5.56*10^-5 A.
@@ -60,7 +60,7 @@ RESULT( Design-1):
     The gain(2 dB) and phase shift(which is nearly 180deg) align with theoretical expectations.
     The circuit maintains its performance across the tested frequency range.
     
-INFERENCE( Design-1):
+### INFERENCE( Design-1):
     The experiment confirms that by properly selecting the MOSFET dimensions, we can control the drain current effectively.
     Impact of Width Adjustments:
     M1 has a influence on Id, meaning its width affects the output current.
@@ -68,7 +68,7 @@ INFERENCE( Design-1):
     Overall, the design works as intended, following theoretical predictions and proving its practical feasibility.
 
 
-Design-2
+### Design-2
     ![dfdfdffd](https://github.com/user-attachments/assets/b0fd1f86-e0be-4b78-903f-f818513d8e25)
 
 Using the Formula for Power,
@@ -97,13 +97,13 @@ Length and Width of the Channel of the two MOSFETS used to obtain the given Curr
 
 
 ![image](https://github.com/user-attachments/assets/ece194ad-678b-43c3-9367-f9d4de4c3d54)
-1.DC ANALYSIS:
+### 1.DC ANALYSIS:
 
 Procedure for Performing DC Analysis: we have to select the dc output print(DC op pnt) in the Edit Simulation Command and Run the Simulation
 
 ![image](https://github.com/user-attachments/assets/9a7a72df-a810-4311-8380-8d66222cc665)
 
-2.Transient Analysis:
+### 2.Transient Analysis:
 
 Procedure for Performing Transient Analysis: we have to select the Transient Analysis in the Edit Simulation Command, Give the stop time as 1ms and Run the Simulation.
 
@@ -113,7 +113,7 @@ Procedure for Performing Transient Analysis: we have to select the Transient Ana
 
 ![image](https://github.com/user-attachments/assets/56c308c2-c76a-4e05-83d9-2bc0150fe9ea)
 
-AC Analysis:
+### AC Analysis:
 
 rocedure for Performing AC Analysis: we have to select the AC Analysis in the Edit Simulation Command, Give the values as shown in the figure beowl and Run th Simulation.
 
@@ -122,7 +122,7 @@ The Graph below shows the AC Analysis of the Given Design;
 
 ![image](https://github.com/user-attachments/assets/d114f938-1344-48ae-b8ab-09e1be585b39)
 
-RESULT(DESIGN-2)
+### RESULT(DESIGN-2)
 1.DC Analysis:
 
 *The calculated drain current (Id) aligns with the expected value based on power and voltage, where the value of Id = 5.56*10^-5 A .
@@ -140,12 +140,12 @@ RESULT(DESIGN-2)
 *The gain(5.5 dB) and phase shift (which is nearly 180deg) align with theoretical expectations.
 *The circuit functions as expected under AC conditions.
 
-Inference (Design-2):
+### Inference :
  *The experiment validates that by appropriately selecting the MOSFET dimensions (L & W), the drain current can be precisely controlled.
 
 *The voltage transfer characteristics (VTC) helped in selecting the correct operating voltage (0.7V) for saturation.
 
-*Impact of Width Adjustments:
+*variation due to the change in length :
 
 *M2 has a stronger influence on Id, meaning its width significantly affects the output current.
 *M1 has a smaller influence, meaning changes in its width result in only minor variations in Id.
