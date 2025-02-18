@@ -1,4 +1,4 @@
-Experiment-1
+### Experiment-1
 Question : Given that POWER, P=100µ W; Perform DC Analysis, Transient Analysis and AC Analysis for the Given Circuit Designs and also check what happens when the width is increased or decreased of each mosfet;
 
 Design-1 :
