@@ -69,7 +69,7 @@ The circuit performs well in all three analyses—DC, transient, and AC—demons
 Overall, the design works as intended, following theoretical predictions and proving its practical feasibility.
 
 
-### Design-2
+# Design-2
     ![dfdfdffd](https://github.com/user-attachments/assets/b0fd1f86-e0be-4b78-903f-f818513d8e25)
 
 Using the Formula for Power,
