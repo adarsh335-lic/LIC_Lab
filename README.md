@@ -46,19 +46,20 @@ The Graph below shows the AC Analysis of the Given Design;
 ### RESULT:
     DC Analysis:
     
-    The calculated drain current (Id) matches the expected value based on power and voltage, Id = 5.56*10^-5 A.
-    By adjusting the MOSFET’s channel dimensions (L & W) where L=180nm and W= 203nm, The current requirement was succesfully achecived.
-    The circuit behaves as expected under DC conditions.
-    Transient Analysis:
+The calculated drain current (Id) matches the expected value based on power and voltage, Id = 5.56*10^-5 A.
+By adjusting the MOSFET’s channel dimensions (L & W) where L=180nm and W= 203nm, The current requirement was succesfully achecived.
+The circuit behaves as expected under DC conditions.
+
+Transient Analysis:
     
-    The transient response graph shows how the circuit behaves over time.
-    The response is smooth, with no unexpected delays or distortions.
-    The circuit reacts well to changes, confirming its stability.
-    AC Analysis:
+The transient response graph shows how the circuit behaves over time.
+The response is smooth, with no unexpected delays or distortions.
+The circuit reacts well to changes, confirming its stability.
+AC Analysis:
     
-    The AC response graph confirms that the circuit remains stable at different frequencies.
-    The gain(2 dB) and phase shift(which is nearly 180deg) align with theoretical expectations.
-    The circuit maintains its performance across the tested frequency range.
+The AC response graph confirms that the circuit remains stable at different frequencies.
+The gain(2 dB) and phase shift(which is nearly 180deg) align with theoretical expectations.
+The circuit maintains its performance across the tested frequency range.
     
 ### INFERENCE( Design-1):
 The experiment confirms that by properly selecting the MOSFET dimensions, we can control the drain current effectively.
