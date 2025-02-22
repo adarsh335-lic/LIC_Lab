@@ -1,4 +1,4 @@
-### Experiment-1
+# Experiment-1
 Question : Given that POWER, P=100µ W; Perform DC Analysis, Transient Analysis and AC Analysis for the Given Circuit Designs and also check what happens when the width is increased or decreased of each mosfet;
 
 ### Design-1 :
@@ -125,7 +125,7 @@ The Graph below shows the AC Analysis of the Given Design;
 ### RESULT(DESIGN-2)
 1.DC Analysis:
 
-*The calculated drain current (Id) aligns with the expected value based on power and voltage, where the value of Id = 5.56*10^-5 A .
+-The calculated drain current (Id) aligns with the expected value based on power and voltage, where the value of Id = 5.56*10^-5 A .
 *By fine-tuning the channel dimensions (L & W) of both MOSFETs ( M1 & M2), the desired current was achieved,
 *M1 : L= 180nm , W= 1105nm.
 *M2 : L= 180nm , W= 1105nm.
