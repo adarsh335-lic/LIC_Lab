@@ -61,11 +61,11 @@ The Graph below shows the AC Analysis of the Given Design;
     The circuit maintains its performance across the tested frequency range.
     
 ### INFERENCE( Design-1):
-    The experiment confirms that by properly selecting the MOSFET dimensions, we can control the drain current effectively.
-    Impact of Width Adjustments:
-    M1 has a influence on Id, meaning its width affects the output current.
-    The circuit performs well in all three analyses—DC, transient, and AC—demonstrating its reliability.
-    Overall, the design works as intended, following theoretical predictions and proving its practical feasibility.
+The experiment confirms that by properly selecting the MOSFET dimensions, we can control the drain current effectively.
+Impact of Width Adjustments:
+M1 has a influence on Id, meaning its width affects the output current.
+The circuit performs well in all three analyses—DC, transient, and AC—demonstrating its reliability.
+Overall, the design works as intended, following theoretical predictions and proving its practical feasibility.
 
 
 ### Design-2
