@@ -7,4 +7,9 @@
 
   Id1=Id2=Iss/2
      =0.45mA
+  Rd=(Vdd-Vocm)/Id1
+    =3.31k ohm
+  Rss=Vp/Iss
+     =0.7V/0.9mA
+     =0.77k ohm
   
