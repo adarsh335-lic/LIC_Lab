@@ -52,6 +52,8 @@ Using  ac anlysis is we are finding out the bandwidth
 ## Inference
 - The mosfet after the maximum input the mosfet M1 and M2 are forced towards the triode region it will cause the operation of the mosfet
 - To improve the gain of the mosfet we required increase the Rd value or width value if we increas the Rd value it will effect your biasing the best way to increase the gain by increasing the width
+- The tail resistor forced both the transistor to maintain the same Id value because to design the diffrential pair amplifier both transistor must be perfectly matched
+-  
 
 
 
