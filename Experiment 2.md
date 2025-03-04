@@ -46,7 +46,12 @@ Using  ac anlysis is we are finding out the bandwidth
 ![Capture](https://github.com/user-attachments/assets/43b60445-072d-48f9-8c8f-15d9d2e768a4)
 
 ## Result 
-      - To ain
+- To proper bias the mosfet the width must be 89.46um and length is 9um.
+- The input dynamic voltage range is  1.061V<Vin_cm<2.1715V.
+- The bandwidth of the amplifier is 2.075M Hz.
+## Inference
+- The mosfet after the maximum input the mosfet M1 and M2 are forced towards the triode region it will cause the operation of the mosfet
+- To improve the gain of the mosfet we required increase the Rd value or width value if we increas the Rd value it will effect your biasing the best way to increase the gain by increasing the width
 
 
 
