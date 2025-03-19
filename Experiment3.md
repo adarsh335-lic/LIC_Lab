@@ -1,6 +1,6 @@
 ## CURRENT MIRRORING EXPERIMENT
 ### Introduction
-A current mirror is a circuit designed to duplicate (or "mirror") a current from one branch of a circuit to another. It is often used in analog designs to provide a stable reference current that can be replicated throughout various parts of the circuit, typically in differential amplifiers or other types of active circuits
+A current mirror is a circuit designed to duplicate (or "mirror") a current from one branch of a circuit to another. It is often used in analog designs to provide a stable reference current that can be replicated throughout various parts of the circuit, typically in differential amplifiers or other types of active circuits Current mirrors are widely used due to their high output resistance, improved accuracy, and ability to maintain constant current independent of voltage variations. The experiment involves simulating different types of current mirror circuits, such as basic current mirrors, Wilson current mirrors, and cascode current mirrors, to analyze their performance, current transfer accuracy, and voltage dependencies. By understanding these circuits, engineers can design efficient current sources and biasing networks for various analog and mixed-signal applications.
 ### Purpose of current mirroring circuits:
   - To provide a constant current to parts of the circuit without relying on resistors
   - To create a stable reference current for other parts of the circuit.
