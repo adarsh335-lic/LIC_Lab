@@ -139,5 +139,26 @@ Follow the same steps to perform AC Analysis.
 **Gain in db is 27.3db & Bandwidth is 493.415MHz .**
 
 ### INFERENCE
+  - 1. Biasing the Differential Pair
+    - The current mirror ensures that a stable reference current is supplied to the differential amplifier.
+    - This improves temperature stability and reduces variations due to power supply changes.
+
+  - 2. Improved Common-Mode Rejection Ratio (CMRR)
+    - Using a current mirror as an active load enhances the CMRR by increasing the differential gain while suppressing common-mode signals.
+
+  - 3. High Gain Achievement
+    -A current mirror load in a differential amplifier increases the gain significantly compared to a simple resistive load.
+
+  - 4. Current Matching for Symmetry
+    - The mirror ensures that the same current flows through both transistors in the differential pair, improving symmetry and balance.
+
+  - 5. Increased Output Resistance
+    The active load provided by the current mirror presents a high output resistance, leading to a higher voltage gain.
+
+  - 6. Reduction of Power Dissipation
+    - The current mirror configuration helps reduce overall power dissipation compared to resistor-loaded differential amplifiers.
+
+  - 7. Enhanced Linearity
+    - The use of a current mirror minimizes distortion, leading to a more linear operation of the amplifier.
 
 
