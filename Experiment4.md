@@ -82,6 +82,12 @@ TO calculate the CMRR = 20 log (ADM/ACM)
 - Adding the another amplifierat the input to increase the input impedence and lowers the output impedence
 - Using the single variable resistor we can control the gain externally
 - Stable and Accurate It keeps the signal steady over time and doesn't drift much with temperature, which is great for accurate, long-term measurements.
+- Instrumentation amplifiers have low offset voltage and drift, which ensures that the output signal is accurate and stable over time and temperature.
+- Instrumentation amplifiers have high input impedance, which minimizes the loading effect on the input signal source and ensures accurate measurement.
+-  Instrumentation amplifiers have a high CMRR, which enables them to reject common-mode noise and interference, and provide a clean output signal.
+
+
+
 
 
 
