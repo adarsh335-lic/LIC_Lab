@@ -41,4 +41,14 @@ calculate ADM for RG=10, 100, 1k, 10k, 20k find ACM and calculate CMRR for each 
      for RG = 10 ohm
      - ADM = 20K/10k [1+2(10k)/10]
      - ADM = 4002 v/v
+    
+  | RG(in ohm) | theorical Gain (ADM) | practical gain |
+
+  | --------------- | ----- | --------- | 
+  | 10 |	4002 | 4136.81	|   
+  | 100 |	402 | 414.910 |  	
+  | 1k | 42 | 43.36	|
+  | 10k | 6 | 5.06855 |
+  | 20k | 4 | 4.12851 |
+
   
