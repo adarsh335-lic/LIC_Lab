@@ -42,13 +42,23 @@ calculate ADM for RG=10, 100, 1k, 10k, 20k find ACM and calculate CMRR for each 
      - ADM = 20K/10k [1+2(10k)/10]
      - ADM = 4002 v/v
     
-  | RG(in ohm) | theorical Gain (ADM) | practical gain |
+   | RG(in ohm) | input voltage | theoritical Gain (ADM) | practical gain(ADM) |
+  | --------------- | ----- | -------- | --------- | 
+  | 10 | 3.37mV |	4002 | 4136.81	|   
+  | 100 |	33.6mV |402 | 414.910 |  	
+  | 1k | 321.mV | 42 | 43.36	|
+  | 10k | 2.25V| 6 | 5.06855 |
+  | 20k | 3.375V |  4 | 4.12851 |
 
-  | --------------- | ----- | --------- | 
-  | 10 |	4002 | 4136.81	|   
-  | 100 |	402 | 414.910 |  	
-  | 1k | 42 | 43.36	|
-  | 10k | 6 | 5.06855 |
-  | 20k | 4 | 4.12851 |
+  ### circuit diagram
+![image](https://github.com/user-attachments/assets/962c1018-da3e-4c62-a63d-ad563fca0fdc)
+
+### Output waveform
+
+![image](https://github.com/user-attachments/assets/2a62db37-2bb0-4dce-9153-e86938637a5a)
+
+
+   
+
 
   
