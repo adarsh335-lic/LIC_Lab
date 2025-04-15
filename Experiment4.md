@@ -32,6 +32,6 @@ Design an insturmental amplifier using 3 opamp configuration with following cont
   - R2=R4=20k
   - R5=R6=10k
   - VCC=15v
-calculate ADM for RG=10,100,1k,10k,20k find ACM and calculate CMRR for each case sue LT spice simulator 
+calculate ADM for RG=10, 100, 1k, 10k, 20k find ACM and calculate CMRR for each case sue LT spice simulator  
 
 
