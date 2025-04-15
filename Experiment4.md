@@ -77,7 +77,11 @@ TO calculate the CMRR = 20 log (ADM/ACM)
 
 
 ## INFERENCE
-- 
+- Instrumental amplifier is basically a diffrential amplifier having a high CMRR
+- The sensors which converts the physical quantity to electrical quantity , when this electrical signal is directly pass input diffrenial there will be issue in impedence matching
+- Adding the another amplifierat the input to increase the input impedence and lowers the output impedence
+- Using the single variable resistor we can control the gain externally
+- Stable and Accurate It keeps the signal steady over time and doesn't drift much with temperature, which is great for accurate, long-term measurements.
 
 
 
