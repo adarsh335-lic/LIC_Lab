@@ -76,6 +76,10 @@ TO calculate the CMRR = 20 log (ADM/ACM)
   | 20k | 3.375V |  26.210593n | 7.766n | 174.5178 |
 
 
+## INFERENCE
+- 
+
+
 
 
    
