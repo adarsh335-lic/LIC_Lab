@@ -22,4 +22,16 @@
     
   - Where 2 are the buffer amplifier and another one is a diffrential amplifier.
     
-  - By connecting the resistor across the buffer amplifier we can control the overall gain of the amplifier 
+  - By connecting the resistor across the buffer amplifier we can control the overall gain of the amplifier
+
+  - ![image](https://github.com/user-attachments/assets/b0af7776-72ab-4a1f-a62b-aac56d33a12c)
+
+## Design Question
+Design an insturmental amplifier using 3 opamp configuration with following contraints
+  - R1=R3=10k
+  - R2=R4=20k
+  - R5=R6=10k
+  - VCC=15v
+calculate ADM for RG=10,100,1k,10k,20k find ACM and calculate CMRR for each case sue LT spice simulator 
+
+
