@@ -35,7 +35,7 @@ Design an insturmental amplifier using 3 opamp configuration with following cont
 calculate ADM for RG=10, 100, 1k, 10k, 20k find ACM and calculate CMRR for each case sue LT spice simulator  
 
 ## Calculation
-
+To calculate the difrrential gain
   - ADM = R2/R1 [1+2R5/RG]
 
      for RG = 10 ohm
@@ -56,6 +56,16 @@ calculate ADM for RG=10, 100, 1k, 10k, 20k find ACM and calculate CMRR for each 
 ### Output waveform
 
 ![image](https://github.com/user-attachments/assets/2a62db37-2bb0-4dce-9153-e86938637a5a)
+
+### common mode gain 
+
+#### circuit diagram
+
+![image](https://github.com/user-attachments/assets/52534afb-5a62-4239-b241-6b44dc7729b7)
+
+![image](https://github.com/user-attachments/assets/912c24c6-33a3-4bb6-86a8-bf009a5bb125)
+
+
 
 
    
