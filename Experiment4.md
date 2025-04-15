@@ -64,6 +64,16 @@ To calculate the difrrential gain
 ![image](https://github.com/user-attachments/assets/52534afb-5a62-4239-b241-6b44dc7729b7)
 
 ![image](https://github.com/user-attachments/assets/912c24c6-33a3-4bb6-86a8-bf009a5bb125)
+TO calculate the CMRR = 20 log (ADM/ACM)
+                 CMRR = 20 log (4136.81/7.75)
+                 CMRR = 234.54
+ | RG(in ohm) | input voltage | outputvoltage(V) | practical gain(ACM) |
+  | --------------- | ----- | -------- | --------- | 
+  | 10 | 3.37mV |	26.12084pV | 7.75n	|   
+  | 100 |	33.6mV | 261.08056p | 7.77n |  	
+  | 1k | 321.mV | 2.496038n | 7.766n	|
+  | 10k | 2.25V| 17.47355n | 7.766n |
+  | 20k | 3.375V |  26.210593n | 7.766n |
 
 
 
