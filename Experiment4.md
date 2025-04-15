@@ -19,5 +19,7 @@
 
 ### Basic structure
   - Basic structure of a instrumental amplifier consists of 3 opamp
+    
   - Where 2 are the buffer amplifier and another one is a diffrential amplifier.
+    
   - By connecting the resistor across the buffer amplifier we can control the overall gain of the amplifier 
